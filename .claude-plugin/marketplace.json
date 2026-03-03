@@ -7,7 +7,8 @@
     {
       "name": "review",
       "source": "./plugins/review",
-      "description": "レビュー用プラグイン（動作確認）"
+      "description": "レビュー用プラグイン（動作確認）",
+      "version": "1.1.0"
     }
   ]
 }
