@@ -1,0 +1,13 @@
+{
+  "name": "review-marketplace",
+  "owner": {
+    "name": "Shohei Shimada"
+  },
+  "plugins": [
+    {
+      "name": "review",
+      "source": "./plugins/review",
+      "description": "レビュー用プラグイン（動作確認）"
+    }
+  ]
+}
